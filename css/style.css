@@ -381,12 +381,12 @@
 }
 
 .portfolio-content .portfolio-item .portfolio-img .portfolio-img-inner {
-    visibility: hidden;
+    /* visibility: hidden; */
     transition: 0.5s;
 }
 
 .portfolio-content .portfolio-item:hover .portfolio-img .portfolio-img-inner {
-    visibility: visible;
+    /* visibility: visible; */
     transform: rotate(-6deg);
 }
 /*** Portfolio End ***/
@@ -477,13 +477,14 @@
 }
 /*** footer End ***/
 .about-me{
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .project-title{
     font-size: 24px;
     font-weight: 600;
 }
+
 
 
 
